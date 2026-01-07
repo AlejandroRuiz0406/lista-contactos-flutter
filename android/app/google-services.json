@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759614451860",
+    "project_id": "listatareasfirebase-8fd3b",
+    "storage_bucket": "listatareasfirebase-8fd3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759614451860:android:dd556f380289ed045a8481",
+        "android_client_info": {
+          "package_name": "com.example.contactos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7IhEdZ_yzzisclWuQoBW319vm0CONAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
